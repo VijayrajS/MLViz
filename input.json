@@ -1,0 +1,15 @@
+{
+	"layer_list": [
+		{
+			"layer_name": "layer3[0].downsample[1]",
+			"activation": "comp"
+		},
+		{
+			"layer_name": "layer3[0].downsample[0]",
+			"activation": "comp2"
+		},
+		{
+			"layer_name": "avgpool"
+		}
+	]
+}
